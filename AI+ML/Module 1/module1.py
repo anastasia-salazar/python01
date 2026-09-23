@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 
-csv_path = Path(__file__).resolve().parent.parent / "50_Startups.csv"
+csv_path = Path(__file__).resolve().parent / "50_Startups.csv"
 
 
 file = pd.read_csv(csv_path)
