@@ -1,0 +1,5 @@
+Welcome to Skyforge Isles, a strategy game for 2 to 5 players.
+The golden token is worth 50 points, while each silver token is worth 15 points.
+Players cannot cross the river without playing a bridge card, and each bridge card can only be used once.
+If a player lands on a volcano tile, they must discard two resource cards of their choice.
+The first player to build three lighthouses immediately wins the game, regardless of points.
